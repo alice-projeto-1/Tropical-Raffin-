@@ -129,7 +129,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #4c124e !important;
+  background-color: #e0cbb5 !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -145,23 +145,23 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #4c124e !important;
-  border-color: #4c124e !important;
-  color: #ffffff !important;
+  background-color: #e0cbb5 !important;
+  border-color: #e0cbb5 !important;
+  color: #6a4c2c !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary.active {
-  color: #ffffff !important;
-  background-color: #0f0410 !important;
-  border-color: #0f0410 !important;
+  color: #6a4c2c !important;
+  background-color: #c9a57f !important;
+  border-color: #c9a57f !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #ffffff !important;
-  background-color: #0f0410 !important;
-  border-color: #0f0410 !important;
+  color: #6a4c2c !important;
+  background-color: #c9a57f !important;
+  border-color: #c9a57f !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -309,22 +309,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #000000;
-  color: #000000;
+  border-color: #c2986d;
+  color: #c2986d;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
-  color: #ffffff;
-  background-color: #4c124e;
-  border-color: #4c124e;
+  color: #6a4c2c;
+  background-color: #e0cbb5;
+  border-color: #e0cbb5;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
-  color: #ffffff !important;
-  background-color: #4c124e !important;
-  border-color: #4c124e !important;
+  color: #6a4c2c !important;
+  background-color: #e0cbb5 !important;
+  border-color: #e0cbb5 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -461,7 +461,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #4c124e !important;
+  color: #e0cbb5 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -486,7 +486,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #000000 !important;
+  color: #c2986d !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -544,9 +544,9 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #4c124e;
-  border-color: #4c124e;
-  color: #ffffff;
+  background-color: #e0cbb5;
+  border-color: #e0cbb5;
+  color: #7c5934;
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
@@ -562,11 +562,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #4c124e;
+  color: #e0cbb5;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #d969dc;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -684,7 +684,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #4c124e;
+  border-color: #e0cbb5;
   border-width: 3px;
 }
 ul,
@@ -772,7 +772,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #4c124e;
+  border-color: #e0cbb5;
   color: #232323;
   cursor: pointer;
 }
@@ -783,7 +783,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #4c124e;
+  background: #e0cbb5;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -791,11 +791,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #4c124e;
+  background: #e0cbb5;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #4c124e;
+  color: #e0cbb5;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -4591,11 +4591,6 @@ body {
 .cid-sHwGpneEP3 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-sHwTli04nP {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-sHxUg4JF91 .modal-body .close {
   background: #1b1b1b;
 }
@@ -5199,4 +5194,9 @@ body {
     height: 675px;
     position: relative;
   }
+}
+.cid-sHwTli04nP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
